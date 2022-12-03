@@ -6,12 +6,14 @@ My First Repository
 > This is the following Series/Movies, I've loved to watch.
 
 ##My Favorite Movies
+>Top 4
 1. Silent Voice 
 2. Konosuba
 3. Kimi no Nawa
 4. Saekano
 
 ##My Favorite Series
+> 4 Mainstream Series
 - Stranger Things
 - Umbrella Academy
 - I'm not a robot

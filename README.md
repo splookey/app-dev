@@ -20,6 +20,7 @@ My First Repository
 - Shy Boss
 
 ### Game Recommendation
+> GAMES
 1. Tetris
 2. Dota 2
 3. Valorant

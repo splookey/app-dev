@@ -1,7 +1,7 @@
 # app-dev
 My First Repository
 
-[title](https://www.example.com](https://github.com/splookey/app-dev)
+[title](https://github.com/splookey/app-dev/blob/readme-edits/README.md)
 
 > This is the following Series/Movies, I've loved to watch.
 

@@ -1,7 +1,7 @@
 # app-dev
 My First Repository
 
-[title](https://github.com/splookey/app-dev/blob/readme-edits/README.md)
+[Recommendation](https://github.com/splookey/app-dev/blob/readme-edits/README.md)
 
 > This is the following Series/Movies, I've loved to watch.
 
@@ -18,6 +18,11 @@ My First Repository
 - Umbrella Academy
 - I'm not a robot
 - Shy Boss
+
+### Game Recommendation
+1. Tetris
+2. Dota 2
+3. Valorant
 
 ** I recommend that you watch it because it is really good **
 * Suggested by: Ben Ilan *

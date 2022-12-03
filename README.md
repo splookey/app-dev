@@ -6,14 +6,16 @@ My First Repository
 > This is the following Series/Movies, I've loved to watch.
 
 ##My Favorite Movies
-1. Silent Voice
+1. Silent Voice 
 2. Konosuba
 3. Kimi no Nawa
+4. Saekano
 
 ##My Favorite Series
 - Stranger Things
 - Umbrella Academy
 - I'm not a robot
+- Shy Boss
 
 ** I recommend that you watch it because it is really good **
-* Suggest by: Ben Ilan
+* Suggest by: Ben Ilan *

@@ -20,6 +20,6 @@ My First Repository
 - Shy Boss
 
 ** I recommend that you watch it because it is really good **
-* Suggest by: Ben Ilan *
+* Suggested by: Ben Ilan *
 
 ![ Yaye ](https://i.pinimg.com/originals/cb/37/db/cb37db46255b7995387cf88a284b6561.jpg)

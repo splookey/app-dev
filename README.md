@@ -1,7 +1,7 @@
 # app-dev
 My First Repository
 
-[Author: ](https://www.instagram.com/benedictnali_/)
+# [--- Author --- ](https://www.instagram.com/benedictnali_/)
 
 > This is the following Series/Movies, I've loved to watch and Games that I've loved to play.
 

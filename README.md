@@ -8,12 +8,12 @@ My First Repository
 ##My Favorite Movies
 >Top 4
 1. Silent Voice  ![](https://wallpaperaccess.com/full/1084610.jpg)
-2. Konosuba !() ![](https://wallpapers.com/images/hd/konosuba-team-5kir4xbh9edsitgp.jpg)
+2. Konosuba  ![](https://wallpapers.com/images/hd/konosuba-team-5kir4xbh9edsitgp.jpg)
 3. Kimi no Nawa ![](https://wallpaperaccess.com/full/1146484.jpg)
-4. Saekano![](https://c4.wallpaperflare.com/wallpaper/78/299/615/anime-saekano-how-to-raise-a-boring-girlfriend-megumi-kat%C5%8D-wallpaper-preview.jpg)
+4. Saekano ![](https://c4.wallpaperflare.com/wallpaper/78/299/615/anime-saekano-how-to-raise-a-boring-girlfriend-megumi-kat%C5%8D-wallpaper-preview.jpg)
 
 ##My Favorite Series
-> 4 Mainstream Series !()
+> 4 Mainstream Series 
 - Stranger Things !()
 - Umbrella Academy !()
 - I'm not a robot !()

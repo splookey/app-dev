@@ -15,7 +15,7 @@ My First Repository
 
 ## **My Favorite Series**
 > 4 Mainstream Series 
-### - **Stranger Things ** ![](https://images.wallpapersden.com/image/download/stranger-things-season-4-poster_bWhtbGeUmZqaraWkpJRmbmdlrWZlbWU.jpg)
+### - **Stranger Things** ![](https://images.wallpapersden.com/image/download/stranger-things-season-4-poster_bWhtbGeUmZqaraWkpJRmbmdlrWZlbWU.jpg)
 ### - **Umbrella Academy** ![](https://images3.alphacoders.com/109/thumb-1920-1093025.jpg)
 ### - **I'm not a robot** ![](https://www.hellokpop.com/wp-content/uploads/2017/12/main-bg2.jpg)
 ### - **Shy Boss**              

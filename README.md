@@ -14,16 +14,16 @@ My First Repository
 
 ##My Favorite Series
 > 4 Mainstream Series 
-- Stranger Things !(https://images.wallpapersden.com/image/download/stranger-things-season-4-poster_bWhtbGeUmZqaraWkpJRmbmdlrWZlbWU.jpg)
-- Umbrella Academy !(https://images3.alphacoders.com/109/thumb-1920-1093025.jpg)
-- I'm not a robot !(https://www.hellokpop.com/wp-content/uploads/2017/12/main-bg2.jpg)
-- Shy Boss !(https://tigapuluhlimaadegan.files.wordpress.com/2017/04/08.jpg)
+- Stranger Things ![](https://images.wallpapersden.com/image/download/stranger-things-season-4-poster_bWhtbGeUmZqaraWkpJRmbmdlrWZlbWU.jpg)
+- Umbrella Academy ![](https://images3.alphacoders.com/109/thumb-1920-1093025.jpg)
+- I'm not a robot ![](https://www.hellokpop.com/wp-content/uploads/2017/12/main-bg2.jpg)
+- Shy Boss ![](https://tigapuluhlimaadegan.files.wordpress.com/2017/04/08.jpg)
 
 ### Game Recommendation
 > Top 3 Games
-1. Tetris !(https://www.pixelstalk.net/wp-content/uploads/images1/Tetris-Logo-Wallpaper.jpg)
-2. Dota 2 !https://wallpaperaccess.com/full/671214.jpg()
-3. Valorant !(https://images.wallpapersden.com/image/download/valorant-gaming-character_bWpqbmaUmZqaraWkpJRnbW1trWZuaWg.jpg)
+1. Tetris ![](https://www.pixelstalk.net/wp-content/uploads/images1/Tetris-Logo-Wallpaper.jpg)
+2. Dota 2 ![]https://wallpaperaccess.com/full/671214.jpg()
+3. Valorant ![](https://images.wallpapersden.com/image/download/valorant-gaming-character_bWpqbmaUmZqaraWkpJRnbW1trWZuaWg.jpg)
 
 == I recommend that you watch it because it is really good ==
 [^1] Suggested by: Ben Ilan *

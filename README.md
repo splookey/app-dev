@@ -1,7 +1,7 @@
 # app-dev
 My First Repository
 
-[Recommendation](https://github.com/splookey/app-dev/blob/readme-edits/README.md)
+[Author: ](https://www.instagram.com/benedictnali_/)
 
 > This is the following Series/Movies, I've loved to watch and Games that I've loved to play.
 
@@ -19,24 +19,23 @@ My First Repository
 
 ## **My Favorite Series**❤️
 > 4 Mainstream Series 
-### - **Stranger Things** 😨 ![](https://images.wallpapersden.com/image/download/stranger-things-season-4-poster_bWhtbGeUmZqaraWkpJRmbmdlrWZlbWU.jpg)Description 
-:asdasdasadasdasdasdas~
-### - **Umbrella Academy** 😂![](https://images3.alphacoders.com/109/thumb-1920-1093025.jpg)Description 
-:asdasdasadasdasdasdas~
-### - **I'm not a robot**  🥲  ![](https://www.hellokpop.com/wp-content/uploads/2017/12/main-bg2.jpg)Description 
-:asdasdasadasdasdasdas~
-### - **Shy Boss**      🥲          
+### 1. **Stranger Things** 😨 ![](https://images.wallpapersden.com/image/download/stranger-things-season-4-poster_bWhtbGeUmZqaraWkpJRmbmdlrWZlbWU.jpg)Description 
+-asdasdasadasdasdasdas~
+### 2. **Umbrella Academy** 😂![](https://images3.alphacoders.com/109/thumb-1920-1093025.jpg)Description 
+-asdasdasadasdasdasdas~
+### 3. **I'm not a robot**  🥲  ![](https://www.hellokpop.com/wp-content/uploads/2017/12/main-bg2.jpg)Description 
+-asdasdasadasdasdasdas~
+### 4. **Shy Boss**      🥲          
  ![](https://tigapuluhlimaadegan.files.wordpress.com/2017/04/08.jpg)Description 
-:asdasdasadasdasdasdas~
+-asdasdasadasdasdasdas~
 
 ## **Game Recommendation**👍
 > Top 3 Games
 ### 1. **Tetris** 🆒 ![](https://www.pixelstalk.net/wp-content/uploads/images1/Tetris-Logo-Wallpaper.jpg)Description 
-:asdasdasadasdasdasdas~
+-asdasdasadasdasdasdas~
 ### 2. **Dota 2** :feelsgood:![](https://wallpaperaccess.com/full/671214.jpg)Description 
-:asdasdasadasdasdasdas~
-### 3. **Valorant** ![](https://images.wallpapersden.com/image/download/valorant-gaming-character_bWpqbmaUmZqaraWkpJRnbW1trWZuaWg.jpg)Description 
-:asdasdasadasdasdasdas~
+-asdasdasadasdasdasdas~
+### 3. **Valorant** :feelsgood: ![](https://images.wallpapersden.com/image/download/valorant-gaming-character_bWpqbmaUmZqaraWkpJRnbW1trWZuaWg.jpg)Description -:asdasdasadasdasdasdas~
 
 ### **I recommend that you watch it because it is really good**
 > **Suggested by: Ben Ilan**

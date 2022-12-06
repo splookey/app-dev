@@ -14,7 +14,7 @@ My First Repository
 ### 3. **Kimi no Nawa**  🥲 ![](https://wallpaperaccess.com/full/1146484.jpg) Description 
 - asdasdasadasdasdasdas
 ### 4. **Saekano** 😊       
-![](https://c4.wallpaperflare.com/wallpaper/78/299/615/anime-saekano-how-to-raise-a-boring-girlfriend-megumi-kat%C5%8D-wallpaper-preview.jpg)Description 
+![](https://c4.wallpaperflare.com/wallpaper/78/299/615/anime-saekano-how-to-raise-a-boring-girlfriend-megumi-kat%C5%8D-wallpaper-preview.jpg) **Description** 
 :asdasdasadasdasdasdas
 
 ## **My Favorite Series**❤️
@@ -26,7 +26,7 @@ My First Repository
 ### 3. **I'm not a robot**  🥲  ![](https://www.hellokpop.com/wp-content/uploads/2017/12/main-bg2.jpg)Description 
 -asdasdasadasdasdasdas
 ### 4. **Shy Boss**      🥲          
- ![](https://tigapuluhlimaadegan.files.wordpress.com/2017/04/08.jpg) **Description 
+ ![](https://tigapuluhlimaadegan.files.wordpress.com/2017/04/08.jpg) **Description**
 - asdasdasadasdasdasdas
 
 ## **Game Recommendation**👍

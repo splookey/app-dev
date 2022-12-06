@@ -7,7 +7,7 @@ My First Repository
 
 **## My Favorite Movies**
 >Top 4
-**1. Silent Voice**  ![](https://wallpaperaccess.com/full/1084610.jpg)   **asdasdasadasdasdasdas**
+1. **Silent Voice**  ![](https://wallpaperaccess.com/full/1084610.jpg)   **asdasdasadasdasdasdas**
 2. Konosuba  ![](https://wallpapers.com/images/hd/konosuba-team-5kir4xbh9edsitgp.jpg)
 3. Kimi no Nawa ![](https://wallpaperaccess.com/full/1146484.jpg) 
 4. Saekano            
@@ -15,7 +15,7 @@ My First Repository
 
 **## My Favorite Series**
 > 4 Mainstream Series 
-- Stranger Things ** ![](https://images.wallpapersden.com/image/download/stranger-things-season-4-poster_bWhtbGeUmZqaraWkpJRmbmdlrWZlbWU.jpg)
+- **Stranger Things ** ![](https://images.wallpapersden.com/image/download/stranger-things-season-4-poster_bWhtbGeUmZqaraWkpJRmbmdlrWZlbWU.jpg)
 - Umbrella Academy ![](https://images3.alphacoders.com/109/thumb-1920-1093025.jpg)
 - I'm not a robot ![](https://www.hellokpop.com/wp-content/uploads/2017/12/main-bg2.jpg)
 - Shy Boss              

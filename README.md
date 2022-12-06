@@ -36,7 +36,7 @@ My First Repository
 > Top 3 Games
 ### 1. **Tetris** 🆒 ![](https://www.pixelstalk.net/wp-content/uploads/images1/Tetris-Logo-Wallpaper.jpg)Description 
 - It is a classic game where you need to organize block.
->[CLICK HERE TO PLAY](https://tetris.com/play-tetris))
+>[CLICK HERE TO PLAY](https://tetris.com/play-tetris)
 ### 2. **Dota 2** :feelsgood:![](https://wallpaperaccess.com/full/671214.jpg)Description 
 - A Multiplayer Online Battle Arena where you can fight the other heroes and defeat their base.
 >[CLICK HERE TO DOWNLOAD](https://www.dota2.com/home)

@@ -26,8 +26,8 @@ My First Repository
 ### 3. **I'm not a robot**  🥲  ![](https://www.hellokpop.com/wp-content/uploads/2017/12/main-bg2.jpg)Description 
 -asdasdasadasdasdasdas
 ### 4. **Shy Boss**      🥲          
- ![](https://tigapuluhlimaadegan.files.wordpress.com/2017/04/08.jpg)Description 
--asdasdasadasdasdasdas
+ ![](https://tigapuluhlimaadegan.files.wordpress.com/2017/04/08.jpg) **Description 
+- asdasdasadasdasdasdas
 
 ## **Game Recommendation**👍
 > Top 3 Games

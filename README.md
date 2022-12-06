@@ -13,7 +13,8 @@ My First Repository
 - It is the definition of generic isekai and a tale about taking pleasure in one's existence. 
 ### 3. **Kimi no Nawa**  🥲 ![](https://wallpaperaccess.com/full/1146484.jpg) Description 
 - When two teens learn they are switching bodies, they immediately feel a deep, magical connection. The decision to have the boy and girl meet in person manages to make things even more difficult.
-[CLICK HERE](https://www.instagram.com/benedictnali_/)
+>Link Where you can Watch the Series.
+>[CLICK HERE](https://www.bilibili.tv/en)
 
 
 ## **My Favorite Series**❤️
@@ -27,18 +28,21 @@ My First Repository
 ### 4. **Shy Boss**      🥲          
  ![](https://tigapuluhlimaadegan.files.wordpress.com/2017/04/08.jpg) **Description**
 - When a young, enthusiastic employee joins a public relations company with an introverted and gravely misunderstood boss, she makes it her life's work to reveal who he truly is.
->Link Where you can Watch.
->[CLICK HERE](https://www.instagram.com/benedictnali_/)
+>Link Where you can Watch the Series.
+>[CLICK HERE](https://www.netflix.com/ph-en/)
 
 
 ## **Game Recommendation**👍
 > Top 3 Games
 ### 1. **Tetris** 🆒 ![](https://www.pixelstalk.net/wp-content/uploads/images1/Tetris-Logo-Wallpaper.jpg)Description 
 - It is a classic game where you need to organize block.
+>[CLICK HERE TO PLAY](https://tetris.com/play-tetris))
 ### 2. **Dota 2** :feelsgood:![](https://wallpaperaccess.com/full/671214.jpg)Description 
 - A Multiplayer Online Battle Arena where you can fight the other heroes and defeat their base.
+>[CLICK HERE TO DOWNLOAD](https://www.dota2.com/home)
 ### 3. **Valorant** :feelsgood: ![](https://images.wallpapersden.com/image/download/valorant-gaming-character_bWpqbmaUmZqaraWkpJRnbW1trWZuaWg.jpg)Description 
 - FPS game where you can enjoy playing with your friends and defeat the enemy agent.
+- >[CLICK HERE TO DOWNLOAD](https://www.instagram.com/benedictnali_/](https://playvalorant.com/en-us/)
 
 ### **I recommend that you watch it because it is really good**
 > **Suggested by: Ben Ilan**
